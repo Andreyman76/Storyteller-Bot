@@ -27,7 +27,7 @@ localizations = {
         'saved': 'File saved successfully',
         'file_error': 'Only *.story files are allowed',
         'select_story': 'Choose a story from the list',
-        'help': 'Type /start to open the history selection',
+        'help': 'Type /start to open the story selection',
         'story_removed': 'Oops, looks like this story has been deleted',
         'no_stories': 'There are currently no stories to choose from',
     }
